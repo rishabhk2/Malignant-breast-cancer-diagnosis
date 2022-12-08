@@ -8,4 +8,11 @@ to create the necessary datasets for training and testing purposes;
 to train and optimise a selection of models, then choose the best;
 to obtain an unbiased measurement of the final model's performance;
 to interpret results clearly and concisely.
+
+Clients requirements are:
+1) have at least a 95% probability of detecting malignant cancer when it is present
+2) have no more than 1 in 10 healthy cases (those with benign tumours) labelled as positive (malignant).
+
 This assignment relates to the following ACS CBOK areas: abstraction, design, hardware and software, data and information, HCI and programming.
+
+
